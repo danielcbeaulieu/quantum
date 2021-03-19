@@ -1,4 +1,4 @@
-# quantum
+# Quantum Team Demos
 Quantum Demos
 The best way to run these notebooks is by using the IBM Quantum Experience. Follow these instructions to do so.
 
